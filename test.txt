@@ -1,0 +1,18 @@
+vk
+Username xxx@yandex.ru
+Password 231
+Url http://vk.com/
+
+
+Facebook
+Username xxx
+Password qwerty
+E-Mail xxx@gmail.com
+Url http://facebook.com/
+
+
+Twitter
+Username xxx
+Password 123123123
+E-Mail xxx@gmail.com
+Url http://twitter.com/
